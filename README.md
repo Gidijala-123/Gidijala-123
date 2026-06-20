@@ -1,4 +1,3 @@
-
 # Hi there, I'm Bhargava Gidijala! 👋
 
 <p align="center">
@@ -7,9 +6,9 @@
 
 <p align="center">
   <a href="tel:+919493818156"><img src="https://img.shields.io/badge/Phone-107C41?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Phone" /></a>
-  <a href="https://linkedin.com/in/bhargava"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/bhargava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dev.bhargavag%40gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://gbr-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-E1AD01?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://gbr-portfolio.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E1AD01?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -18,8 +17,8 @@
 
 I am a driven **Full-Stack Software Engineer** with 3+ years of experience specialized in building high-throughput backend ecosystems, secure financial architectures, and intelligent workflow automations. I enjoy writing clean code, designing robust RESTful microservices, and integrating AI acceleration tools to cut down production deployment times.
 
-*   **Scope of Expertise:** Engineered end-to-end full-stack workflows for loan processing (LAP/LAS) with integrated credit validation engines.
-*   **Security Architecture:** Expert in handling sensitive data using AES-256 encryption systems and resilient JWT rotation strategies.
+* **Scope of Expertise:** Engineered end-to-end full-stack workflows for loan processing (LAP/LAS) with integrated credit validation engines.
+* **Security Architecture:** Expert in handling sensitive data using AES-256 encryption systems and resilient JWT rotation strategies.
 
 ---
 
@@ -48,6 +47,8 @@ I am a driven **Full-Stack Software Engineer** with 3+ years of experience speci
 
 <img src="./techstack.svg" width="100%" alt="Core Tech Stack Ecosystem" />
 
+<br/>
+
 #### 🛠️ Next-Gen IDEs, AI Assistants & Productivity Tooling
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />  <img src="https://img.shields.io/badge/TRAE-1A1B26?style=for-the-badge&logoColor=7AA2F7" alt="Trae AI" />  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />  <img src="https://img.shields.io/badge/Claude_3.5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />  <img src="https://img.shields.io/badge/KIRA-24283B?style=for-the-badge" alt="KIRA" />  <img src="https://img.shields.io/badge/Void_Editor-414868?style=for-the-badge" alt="Void" />  <img src="https://img.shields.io/badge/Antigravity-FF007F?style=for-the-badge" alt="Antigravity" />  <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word" />
@@ -57,18 +58,6 @@ I am a driven **Full-Stack Software Engineer** with 3+ years of experience speci
 ### 📂 Featured Implementations
 
 <img src="./projects.svg" width="100%" alt="Featured Projects Grid" />
-
----
-
-### 📂 Featured Implementations
-
-| 🌐 [Flavora Engine](https://gbr-kitchen.onrender.com/) | 📱 [Mobile Storage Application](https://gbr-mobile-seize-application.onrender.com/) |
-| :--- | :--- |
-| • Engineered an enterprise authentication system utilizing production-grade OAuth, SMS/Email OTP, and strict JWT rotation.<br>• Programmed dynamic invoice generators and configured continuous deployment pipelines via Render. | • Designed and optimized custom full-stack architecture for mobile hardware asset tracking, cloud allocation, and data state-holding backend microservices. |
-
-| 🪙 [Crypto Currency Tracker](https://gbr-cryptocurrency.onrender.com/) | 👤 [Personal Webpage](https://gbr-pwebpage.onrender.com/) |
-| :--- | :--- |
-| • Constructed interactive, high-throughput digital asset trackers displaying real-time coin metrics, historical charting data, and currency conversions. | • Designed and executed a highly responsive, modern performance portfolio to display active system metrics, active deployments, and engineering credentials. |
 
 ---
 
@@ -85,16 +74,60 @@ I am a driven **Full-Stack Software Engineer** with 3+ years of experience speci
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidijala-123&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="100%" />
+  <img height="160em" width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidijala-123&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🔗 Live Production Deployments
 
-* **🍳 Flavora (Online Restaurant System):** [gbr-kitchen.onrender.com](https://gbr-kitchen.onrender.com/)
-* **📦 Mobile Storage Application:** [gbr-mobile-seize-application.onrender.com](https://gbr-mobile-seize-application.onrender.com/)
-* **📈 Crypto Currency Dashboard:** [gbr-cryptocurrency.onrender.com](https://gbr-cryptocurrency.onrender.com/)
-* **💼 Personal Portfolio Webpage:** [gbr-pwebpage.onrender.com](https://gbr-pwebpage.onrender.com/)
-
----
+<table width="100%" border="0" cellpadding="0" style="border-collapse: separate; border-spacing: 16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #414868; border-radius: 12px; background-color: #1a1b26; overflow: hidden; padding: 0;">
+      <div style="background-color: #7aa2f7; padding: 12px 18px; font-weight: 700; font-size: 15px;">
+        <a href="https://gbr-kitchen.onrender.com/" target="_blank" style="text-decoration: none !important; color: #100f1f; display: block; width: 100%;">
+          <span style="color: #100f1f; text-decoration: none !important;">🍳 Flavora Engine</span>
+          <span style="font-size: 11px; float: right; opacity: 0.85; color: #100f1f; text-decoration: none !important;">LAUNCH ↗</span>
+        </a>
+      </div>
+      <div style="font-size: 13.5px; color: #c0caf5; line-height: 1.6; padding: 18px;">
+        Production-grade online kitchen system featuring automated order routing and live continuous deployment cycles.
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #414868; border-radius: 12px; background-color: #24283b; overflow: hidden; padding: 0;">
+      <div style="background-color: #f7768e; padding: 12px 18px; font-weight: 700; font-size: 15px;">
+        <a href="https://gbr-mobile-seize-application.onrender.com/" target="_blank" style="text-decoration: none !important; color: #100f1f; display: block; width: 100%;">
+          <span style="color: #100f1f; text-decoration: none !important;">📦 Mobile Storage Application</span>
+          <span style="font-size: 11px; float: right; opacity: 0.85; color: #100f1f; text-decoration: none !important;">LAUNCH ↗</span>
+        </a>
+      </div>
+      <div style="font-size: 13.5px; color: #c0caf5; line-height: 1.6; padding: 18px;">
+        Enterprise-ready platform architecture engineered for tracking hardware asset allocations and cloud database records.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #414868; border-radius: 12px; background-color: #24283b; overflow: hidden; padding: 0;">
+      <div style="background-color: #bb9af3; padding: 12px 18px; font-weight: 700; font-size: 15px;">
+        <a href="https://gbr-cryptocurrency.onrender.com/" target="_blank" style="text-decoration: none !important; color: #100f1f; display: block; width: 100%;">
+          <span style="color: #100f1f; text-decoration: none !important;">📈 Crypto Currency Dashboard</span>
+          <span style="font-size: 11px; float: right; opacity: 0.85; color: #100f1f; text-decoration: none !important;">LAUNCH ↗</span>
+        </a>
+      </div>
+      <div style="font-size: 13.5px; color: #c0caf5; line-height: 1.6; padding: 18px;">
+        High-throughput tracker visualizing asset metrics, historic charting indicators, and real-world currency tickers.
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #414868; border-radius: 12px; background-color: #1a1b26; overflow: hidden; padding: 0;">
+      <div style="background-color: #73daca; padding: 12px 18px; font-weight: 700; font-size: 15px;">
+        <a href="https://gbr-pwebpage.onrender.com/" target="_blank" style="text-decoration: none !important; color: #100f1f; display: block; width: 100%;">
+          <span style="color: #100f1f; text-decoration: none !important;">👤 Personal Portfolio Webpage</span>
+          <span style="font-size: 11px; float: right; opacity: 0.85; color: #100f1f; text-decoration: none !important;">LAUNCH ↗</span>
+        </a>
+      </div>
+      <div style="font-size: 13.5px; color: #c0caf5; line-height: 1.6; padding: 18px;">
+        Interactive engineer landing hub optimized to broadcast system configurations, live links, and platform telemetry.
+      </div>
+    </td>
+  </tr>
+</table>
