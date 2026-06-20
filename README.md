@@ -44,7 +44,7 @@ I am a driven **Full-Stack Software Engineer** with 3+ years of experience speci
 ---
 ### 🛠️ Core Tech Stack & Engineering Ecosystem
 
-<img src="./techstack.svg" width="100%" alt="Engineering Tech Stack" />
+<img src="./techstack.svg" width="100%" alt="Core Tech Stack Ecosystem" />
 ---
 
 #### 💻 Frontend Development
