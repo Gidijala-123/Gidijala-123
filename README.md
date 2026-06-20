@@ -146,7 +146,7 @@ I am a driven **Full-Stack Software Engineer** with 3+ years of experience speci
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargava&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  <img src="languages.svg" alt="Most Used Languages" width="600" />
 </p>
 
 ---
