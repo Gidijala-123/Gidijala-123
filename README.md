@@ -45,6 +45,22 @@ I am a driven **Full-Stack Software Engineer** with 3+ years of experience speci
 
 ### 🛠️ Tech Stack & Tooling
 
+### 🛠️ Core Tech Stack & Engineering Ecosystem
+
+| 💻 Frontend Development | ⚙️ Backend & Architecture |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <br> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Pug-E35749?style=for-the-badge&logo=pug&logoColor=white" alt="Pug" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <br> <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /> <br> <img src="https://img.shields.io/badge/Nodemon-76DEC5?style=for-the-badge&logo=nodemon&logoColor=black" alt="Nodemon" /> |
+
+| 🗄️ Database Management | 🤖 AI, Automation & Platforms |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <br> <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" /> <br> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> | <img src="https://img.shields.io/badge/Botpress-000000?style=for-the-badge&logo=botpress&logoColor=white" alt="Botpress" /> <br> <img src="https://img.shields.io/badge/GitHub_Copilot-8CC84B?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" /> <br> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /> |
+
+| 🚀 DevOps & Tooling | 💻 Operating Systems |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <br> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Render-43009B?style=for-the-badge&logo=render&logoColor=white" alt="Render" /> <br> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /> | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /> <br> <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" /> |
+
+---
+
 #### 💻 Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -97,40 +113,7 @@ I am a driven **Full-Stack Software Engineer** with 3+ years of experience speci
 
 ### 📂 Featured Implementations
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #414868;">
-  <tr>
-    <td width="50%" style="border: 1px solid #414868; padding: 16px; vertical-align: top;">
-      <p><strong>💳 FinxBridge Ecosystem</strong></p>
-      <ul>
-        <li>Orchestrated full-stack architectures for complex loan instruments (LAP/LAS/Carmudi).</li>
-        <li>Automated core underwriting flows using PAN/Aadhaar integrations, decreasing manual field entry errors by 15%.</li>
-      </ul>
-    </td>
-    <td width="50%" bgcolor="#24283b" style="border: 1px solid #414868; padding: 16px; vertical-align: top; background-color: #24283b;">
-      <p><strong>🍕 Flavora Engine</strong></p>
-      <ul>
-        <li>Engineered an enterprise authentication system utilizing production-grade OAuth, SMS/Email OTP, and strict JWT rotation.</li>
-        <li>Programmed dynamic invoice generators and configured continuous deployment pipelines via Render.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" bgcolor="#24283b" style="border: 1px solid #414868; padding: 16px; vertical-align: top; background-color: #24283b;">
-      <p><strong>🤖 Muskaan &amp; Spinebot Automation</strong></p>
-      <ul>
-        <li>Designed highly conversational customer interaction interfaces using Botpress and raw Node.js handlers.</li>
-        <li>Wired chatbot pipelines directly into relational engines (MySQL) to pull real-time client variables automatically.</li>
-      </ul>
-    </td>
-    <td width="50%" style="border: 1px solid #414868; padding: 16px; vertical-align: top;">
-      <p><strong>🔒 Visa Security Wrapper</strong></p>
-      <ul>
-        <li>Deployed deep backend optimizations for visa registration workflows handling international travelers.</li>
-        <li>Secured sensitive candidate payload structures via targeted AES-256 data packet encryption pipelines.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="./projects.svg" width="100%" alt="Featured Projects Grid" />
 
 ---
 
@@ -142,10 +125,10 @@ I am a driven **Full-Stack Software Engineer** with 3+ years of experience speci
 - 🔏 **Code Reliability:** Maintained robust production standards using strict data sanitization, AES-256 encryption, and automated CI/CD builds.
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bhargava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Bhargava's GitHub Stats" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargava&theme=tokyonight" alt="GitHub Streak" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gidijala-123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Bhargava's GitHub Stats" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gidijala-123&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargava&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidijala-123&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
