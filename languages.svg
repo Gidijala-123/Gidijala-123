@@ -1,34 +1,47 @@
-<svg width="600" height="220" viewBox="0 0 600 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="220" rx="6" fill="#1a1b26" stroke="#383e56" stroke-width="1"/>
+<svg width="1000" height="195" viewBox="0 0 1000 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 700 20px 'Segoe UI', Ubuntu, Sans-Serif, sans-serif; fill: #7aa2f7; }
+    .lang-name { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif, sans-serif; fill: #a9b1d6; }
+    .lang-pct { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif, sans-serif; fill: #7982a9; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="999" height="194" rx="5" fill="#1a1b26" stroke="#383e56" stroke-width="1"/>
   
-  <text x="35" y="40" fill="#7aa2f7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="bold">Most Used Languages</text>
+  <text x="30" y="40" class="title">Most Used Languages</text>
   
-  <g>
-    <rect x="35" y="65" width="244" height="14" rx="7" fill="#f7df1e" />
-    <rect x="274" y="65" width="175" height="14" rx="7" fill="#61dafb" />
-    <rect x="444" y="65" width="64" height="14" rx="7" fill="#ff9e64" />
-    <rect x="503" y="65" width="62" height="14" rx="7" fill="#9ece6a" />
-    
-    <rect x="270" y="65" width="8" height="14" fill="#61dafb" />
-    <rect x="440" y="65" width="8" height="14" fill="#ff9e64" />
-    <rect x="500" y="65" width="8" height="14" fill="#9ece6a" />
+  <g transform="translate(30, 60)">
+    <mask id="bar-corners">
+      <rect width="940" height="12" rx="6" fill="#ffffff" />
+    </mask>
+    <rect x="0" width="432.4" height="12" fill="#f7df1e" mask="url(#bar-corners)" />
+    <rect x="432.4" width="310.2" height="12" fill="#61dafb" mask="url(#bar-corners)" />
+    <rect x="742.6" width="112.8" height="12" fill="#ff9e64" mask="url(#bar-corners)" />
+    <rect x="855.4" width="84.6" height="12" fill="#9ece6a" mask="url(#bar-corners)" />
   </g>
   
-  <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">
-    <circle cx="42" cy="125" r="6" fill="#f7df1e" />
-    <text x="58" y="129" fill="#a9b1d6">JavaScript / Node.js</text>
-    <text x="195" y="129" fill="#7982a9" font-weight="normal">46.0%</text>
-    
-    <circle cx="42" cy="165" r="6" fill="#ff9e64" />
-    <text x="58" y="169" fill="#a9b1d6">HTML5 / CSS3 / Pug</text>
-    <text x="195" y="169" fill="#7982a9" font-weight="normal">12.0%</text>
+  <g transform="translate(35, 105)">
+    <g transform="translate(0, 0)">
+      <circle cx="5" cy="5" r="5" fill="#f7df1e" />
+      <text x="25" y="9" class="lang-name">JavaScript / Node.js</text>
+      <text x="200" y="9" class="lang-pct">46.0%</text>
+    </g>
+    <g transform="translate(0, 35)">
+      <circle cx="5" cy="5" r="5" fill="#ff9e64" />
+      <text x="25" y="9" class="lang-name">HTML5 / CSS3 / Pug</text>
+      <text x="200" y="9" class="lang-pct">12.0%</text>
+    </g>
+  </g>
 
-    <circle cx="315" cy="125" r="6" fill="#61dafb" />
-    <text x="331" y="129" fill="#a9b1d6">React.js / Frontend</text>
-    <text x="465" y="129" fill="#7982a9" font-weight="normal">33.0%</text>
-    
-    <circle cx="315" cy="165" r="6" fill="#9ece6a" />
-    <text x="331" y="169" fill="#a9b1d6">SQL &amp; NoSQL Databases</text>
-    <text x="485" y="169" fill="#7982a9" font-weight="normal">9.0%</text>
+  <g transform="translate(535, 105)">
+    <g transform="translate(0, 0)">
+      <circle cx="5" cy="5" r="5" fill="#61dafb" />
+      <text x="25" y="9" class="lang-name">React.js / Frontend</text>
+      <text x="195" y="9" class="lang-pct">33.0%</text>
+    </g>
+    <g transform="translate(0, 35)">
+      <circle cx="5" cy="5" r="5" fill="#9ece6a" />
+      <text x="25" y="9" class="lang-name">SQL &amp; NoSQL Databases</text>
+      <text x="195" y="9" class="lang-pct">9.0%</text>
+    </g>
   </g>
 </svg>
