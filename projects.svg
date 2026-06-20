@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="380" viewBox="0 0 850 380" fill="none">
+  <style>
+    .grid-table {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+      color: #c0caf5;
+      width: 100%;
+      height: 100%;
+      border-collapse: collapse;
+    }
+    .cell {
+      width: 50%;
+      border: 1px solid #414868;
+      padding: 20px;
+      vertical-align: top;
+      box-sizing: border-box;
+    }
+    /* Distinct dark diagonal shade matching Tokyo Night theme */
+    .shaded {
+      background-color: #24283b;
+    }
+    .title {
+      font-weight: 600;
+      color: #ffffff;
+      font-size: 15px;
+      margin-bottom: 10px;
+    }
+    ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    li:last-child {
+      margin-bottom: 0;
+    }
+  </style>
+
+  <foreignObject width="850" height="380">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%;">
+      <table class="grid-table">
+        <tr>
+          <td class="cell">
+            <div class="title">💳 FinxBridge Ecosystem</div>
+            <ul>
+              <li>Orchestrated full-stack architectures for complex loan instruments (LAP/LAS/Carmudi).</li>
+              <li>Automated core underwriting flows using PAN/Aadhaar integrations, decreasing manual field entry errors by 15%.</li>
+            </ul>
+          </td>
+          <td class="cell shaded">
+            <div class="title">🍕 Flavora Engine</div>
+            <ul>
+              <li>Engineered an enterprise authentication system utilizing production-grade OAuth, SMS/Email OTP, and strict JWT rotation.</li>
+              <li>Programmed dynamic invoice generators and configured continuous deployment pipelines via Render.</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td class="cell shaded">
+            <div class="title">🤖 Muskaan &amp; Spinebot Automation</div>
+            <ul>
+              <li>Designed highly conversational customer interaction interfaces using Botpress and raw Node.js handlers.</li>
+              <li>Wired chatbot pipelines directly into relational engines (MySQL) to pull real-time client variables automatically.</li>
+            </ul>
+          </td>
+          <td class="cell">
+            <div class="title">🔒 Visa Security Wrapper</div>
+            <ul>
+              <li>Deployed deep backend optimizations for visa registration workflows handling international travelers.</li>
+              <li>Secured sensitive candidate payload structures via targeted AES-256 data packet encryption pipelines.</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </foreignObject>
+</svg>
