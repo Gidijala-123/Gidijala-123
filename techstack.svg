@@ -1,85 +1,132 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="510" viewBox="0 0 850 510" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="535" viewBox="0 0 850 535" fill="none">
   <style>
     .card {
       fill: #1a1b26;
       stroke: #414868;
       stroke-width: 1.5;
-      rx: 12px; /* This sets the perfect smooth, rounded edge */
+      rx: 12px;
     }
-    .header-text {
+    .title {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
       font-size: 14px;
       font-weight: 600;
       fill: #7aa2f7;
     }
-    .badge-group {
-      transform: translate(20px, 45px);
+    .pill {
+      fill: #24283b;
+      stroke: #414868;
+      stroke-width: 1;
+      rx: 6px;
+    }
+    .pill-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 500;
+      fill: #c0caf5;
+      text-anchor: middle;
+      dominant-baseline: central;
     }
   </style>
 
   <g transform="translate(10, 10)">
-    <rect class="card" width="405" height="150" />
-    <text class="header-text" x="20" y="28">💻 Frontend Development</text>
-    <g class="badge-group">
-      <image href="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" x="0" y="0" />
-      <image href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" x="90" y="0" />
-      <image href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" x="0" y="38" />
-      <image href="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" x="95" y="38" />
-      <image href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" x="175" y="38" />
-      <image href="https://img.shields.io/badge/Pug-E35749?style=for-the-badge&amp;logo=pug&amp;logoColor=white" x="0" y="76" />
-    </g>
+    <rect class="card" width="410" height="160" />
+    <text class="title" x="20" y="32">💻 Frontend Development</text>
+    
+    <rect class="pill" x="20" y="55" width="65" height="28" />
+    <text class="pill-text" x="52.5" y="69">React</text>
+    
+    <rect class="pill" x="93" y="55" width="95" height="28" />
+    <text class="pill-text" x="140.5" y="69">JavaScript</text>
+
+    <rect class="pill" x="196" y="55" width="70" height="28" />
+    <text class="pill-text" x="231" y="69">HTML5</text>
+
+    <rect class="pill" x="20" y="93" width="65" height="28" />
+    <text class="pill-text" x="52.5" y="107">CSS3</text>
+
+    <rect class="pill" x="93" y="93" width="90" height="28" />
+    <text class="pill-text" x="138" y="107">Bootstrap</text>
+
+    <rect class="pill" x="191" y="93" width="55" height="28" />
+    <text class="pill-text" x="218.5" y="107">Pug</text>
   </g>
 
-  <g transform="translate(435, 10)">
-    <rect class="card" width="405" height="150" />
-    <text class="header-text" x="20" y="28">⚙️ Backend &amp; Architecture</text>
-    <g class="badge-group">
-      <image href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" x="0" y="0" />
-      <image href="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" x="100" y="0" />
-      <image href="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&amp;logo=api&amp;logoColor=white" x="0" y="38" />
-      <image href="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white" x="125" y="38" />
-      <image href="https://img.shields.io/badge/Nodemon-76DEC5?style=for-the-badge&amp;logo=nodemon&amp;logoColor=black" x="0" y="76" />
-    </g>
+  <g transform="translate(430, 10)">
+    <rect class="card" width="410" height="160" />
+    <text class="title" x="20" y="32">⚙️ Backend &amp; Architecture</text>
+    
+    <rect class="pill" x="20" y="55" width="75" height="28" />
+    <text class="pill-text" x="57.5" y="69">Node.js</text>
+
+    <rect class="pill" x="103" y="55" width="90" height="28" />
+    <text class="pill-text" x="148" y="69">Express.js</text>
+
+    <rect class="pill" x="201" y="55" width="90" height="28" />
+    <text class="pill-text" x="246" y="69">REST APIs</text>
+
+    <rect class="pill" x="20" y="93" width="60" height="28" />
+    <text class="pill-text" x="50" y="107">JWT</text>
+
+    <rect class="pill" x="88" y="93" width="85" height="28" />
+    <text class="pill-text" x="130.5" y="107">Nodemon</text>
   </g>
 
-  <g transform="translate(10, 175)">
-    <rect class="card" width="405" height="150" />
-    <text class="header-text" x="20" y="28">🗄️ Database Management</text>
-    <g class="badge-group">
-      <image href="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" x="0" y="0" />
-      <image href="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" x="115" y="0" />
-      <image href="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" x="0" y="38" />
-    </g>
+  <g transform="translate(10, 185)">
+    <rect class="card" width="410" height="160" />
+    <text class="title" x="20" y="32">🗄️ Database Management</text>
+    
+    <rect class="pill" x="20" y="55" width="85" height="28" />
+    <text class="pill-text" x="62.5" y="69">MongoDB</text>
+
+    <rect class="pill" x="113" y="55" width="120" height="28" />
+    <text class="pill-text" x="173" y="69">MongoDB Atlas</text>
+
+    <rect class="pill" x="20" y="93" width="75" height="28" />
+    <text class="pill-text" x="57.5" y="107">MySQL</text>
   </g>
 
-  <g transform="translate(435, 175)">
-    <rect class="card" width="405" height="150" />
-    <text class="header-text" x="20" y="28">🤖 AI, Automation &amp; Platforms</text>
-    <g class="badge-group">
-      <image href="https://img.shields.io/badge/Botpress-000000?style=for-the-badge&amp;logo=botpress&amp;logoColor=white" x="0" y="0" />
-      <image href="https://img.shields.io/badge/GitHub_Copilot-8CC84B?style=for-the-badge&amp;logo=githubcopilot&amp;logoColor=white" x="110" y="0" />
-      <image href="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" x="0" y="38" />
-    </g>
+  <g transform="translate(430, 185)">
+    <rect class="card" width="410" height="160" />
+    <text class="title" x="20" y="32">🤖 AI, Automation &amp; Platforms</text>
+    
+    <rect class="pill" x="20" y="55" width="80" height="28" />
+    <text class="pill-text" x="60" y="69">Botpress</text>
+
+    <rect class="pill" x="108" y="55" width="115" height="28" />
+    <text class="pill-text" x="165.5" y="69">GitHub Copilot</text>
+
+    <rect class="pill" x="20" y="93" width="70" height="28" />
+    <text class="pill-text" x="55" y="107">Ollama</text>
   </g>
 
-  <g transform="translate(10, 340)">
-    <rect class="card" width="405" height="150" />
-    <text class="header-text" x="20" y="28">🚀 DevOps &amp; Tooling</text>
-    <g class="badge-group">
-      <image href="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" x="0" y="0" />
-      <image href="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" x="65" y="0" />
-      <image href="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" x="160" y="0" />
-      <image href="https://img.shields.io/badge/Render-43009B?style=for-the-badge&amp;logo=render&amp;logoColor=white" x="0" y="38" />
-      <image href="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" x="95" y="38" />
-    </g>
+  <g transform="translate(10, 360)">
+    <rect class="card" width="410" height="160" />
+    <text class="title" x="20" y="32">🚀 DevOps &amp; Tooling</text>
+    
+    <rect class="pill" x="20" y="55" width="50" height="28" />
+    <text class="pill-text" x="45" y="69">Git</text>
+
+    <rect class="pill" x="78" y="55" width="75" height="28" />
+    <text class="pill-text" x="115.5" y="69">GitHub</text>
+
+    <rect class="pill" x="161" y="55" width="85" height="28" />
+    <text class="pill-text" x="203.5" y="69">Postman</text>
+
+    <rect class="pill" x="20" y="93" width="75" height="28" />
+    <text class="pill-text" x="57.5" y="107">Render</text>
+
+    <rect class="pill" x="103" y="93" width="75" height="28" />
+    <text class="pill-text" x="140.5" y="107">Heroku</text>
   </g>
 
-  <g transform="translate(435, 340)">
-    <rect class="card" width="405" height="150" />
-    <text class="header-text" x="20" y="28">💻 Operating Systems</text>
-    <g class="badge-group">
-      <image href="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" x="0" y="0" />
-      <image href="https://img.shields.io/badge/macOS-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" x="115" y="0" />
-    </g>
+  <g transform="translate(430, 360)">
+    <rect class="card" width="410" height="160" />
+    <text class="title" x="20" y="32">💻 Operating Systems</text>
+    
+    <rect class="pill" x="20" y="55" width="85" height="28" />
+    <text class="pill-text" x="62.5" y="69">Windows</text>
+
+    <rect class="pill" x="113" y="55" width="75" height="28" />
+    <text class="pill-text" x="150.5" y="69">macOS</text>
   </g>
 </svg>
