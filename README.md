@@ -42,23 +42,9 @@ I am a driven **Full-Stack Software Engineer** with 3+ years of experience speci
 ⚡ **Fun fact:** I love accelerating product delivery using modern tooling, but my favorite tool is still a perfectly optimized database query!
 
 ---
-
-### 🛠️ Tech Stack & Tooling
-
 ### 🛠️ Core Tech Stack & Engineering Ecosystem
 
-| 💻 Frontend Development | ⚙️ Backend & Architecture |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <br> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Pug-E35749?style=for-the-badge&logo=pug&logoColor=white" alt="Pug" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <br> <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /> <br> <img src="https://img.shields.io/badge/Nodemon-76DEC5?style=for-the-badge&logo=nodemon&logoColor=black" alt="Nodemon" /> |
-
-| 🗄️ Database Management | 🤖 AI, Automation & Platforms |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <br> <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" /> <br> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> | <img src="https://img.shields.io/badge/Botpress-000000?style=for-the-badge&logo=botpress&logoColor=white" alt="Botpress" /> <br> <img src="https://img.shields.io/badge/GitHub_Copilot-8CC84B?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" /> <br> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /> |
-
-| 🚀 DevOps & Tooling | 💻 Operating Systems |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <br> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Render-43009B?style=for-the-badge&logo=render&logoColor=white" alt="Render" /> <br> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /> | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /> <br> <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" /> |
-
+<img src="./techstack.svg" width="100%" alt="Engineering Tech Stack" />
 ---
 
 #### 💻 Frontend Development
